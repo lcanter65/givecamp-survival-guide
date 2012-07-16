@@ -21,7 +21,7 @@ GiveCamp Survival Guide
 
 
 
-Instation Instructions
+Installation Instructions
 ======================
 
 - Windows, Mac, Linux
