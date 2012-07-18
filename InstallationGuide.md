@@ -9,6 +9,7 @@
 [Windows](http://www.wampserver.com/en/).
 
 You might also want to look into [Vagrant](http://vagrantup.com/) and a Ubuntu Basebox, it would probably be simpler. 
+Here are some good instructions :http://blairwilliams.com/2012/04/12/run-wordpress-locally-with-vagrant/
 
 
 ###Mac
